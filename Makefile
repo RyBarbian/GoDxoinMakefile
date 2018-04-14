@@ -345,7 +345,7 @@ distclean: clean
 
 
 genbuildhook: FORCE
-	cd /home/ubuntu/noixDoGB1.0; /bin/sh share/genbuild.sh /home/ubuntu/noixDoGB1.0/build/build.h
+	cd /home/ubuntu/GoDxoinB1.1.1; /bin/sh share/genbuild.sh /home/ubuntu/GoDxoinB1.1.1/build/build.h
 
 check: first
 
